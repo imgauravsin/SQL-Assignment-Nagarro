@@ -10,10 +10,10 @@
 
  
               | CommissionPct  | Commission Band |
-             	| -------------  | --------------- |     
+             	| ---  | --- |     
               |      0.00	     |     Band 0      |
               |    Up To 1%	   |     Band 1      |
-              |   Up To 1.5%	 |     Band 2      |
+              |   Up To 1.5%	  |     Band 2      |
               |  Greater 1.5%	 |     Band 3      |
                     
                
