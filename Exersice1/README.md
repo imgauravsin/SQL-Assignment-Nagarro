@@ -10,7 +10,7 @@
 
  
               | CommissionPct  | Commission Band |
-             	| ---  | --- |     
+             	| -------------  | -------------   |     
               |      0.00	     |     Band 0      |
               |    Up To 1%	   |     Band 1      |
               |   Up To 1.5%	  |     Band 2      |
@@ -21,3 +21,7 @@
  Display the [SalesPersonID] with an additional column entitled ‘Commission Band’ indicating the appropriate band as above.
 - 	Display the managerial hierarchy from Ruth Ellerbrock (person type – EM) up to CEO Ken Sanchez. Hint: use [uspGetEmployeeManagers] (Schema(s) involved: [Person], [HumanResources]) 
 - 	Display the ProductId of the product with the largest stock level. Hint: Use the Scalar-valued function [dbo]. [UfnGetStock]. (Schema(s) involved: Production)
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
